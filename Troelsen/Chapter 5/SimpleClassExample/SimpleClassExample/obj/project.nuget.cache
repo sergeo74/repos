@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PHcrOh4uWYc9IEjoPAFsKLAv5ImKPBebO9W74n+rKuOssI3ZO8yM6MIawPAFkI/yOTYsWPnnmaaHIgeUATFw6Q==",
+  "dgSpecHash": "k5j5ncvjDn5BYZlgM11yYcPJzn+p2zMXRgcjS8Bp7cPYnGtawAymxnz2X1b1zD0NHLR4Y2xcyNg66FEyWEi5gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\serge\\source\\repos\\Troelsen\\Chapter 5\\SimpleClassExample\\SimpleClassExample\\SimpleClassExample.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\serge\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
-    "C:\\Users\\serge\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\serge\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\serge\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Admin\\repos\\Troelsen\\Chapter 5\\SimpleClassExample\\SimpleClassExample\\SimpleClassExample.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
